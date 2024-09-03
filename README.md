@@ -52,13 +52,15 @@ CONTENT
 
 # Engineering Factors
 ### Building The Robot
-  
+ We built the robot with LEGO. For the motors, sensors and the brick we used the LEGO MINDSTORMS set. For the rest of the robot we combined different LEGO sets.
+
+ To process the colors of the obstacles we used the PixyCam. The camera has a 
 
 
 
 
 # Coding The Robot
-For the code we used <a href="">LEGO MINDSTORMS</a> application.
+  For the code we used <a href="">LEGO MINDSTORMS</a> application.
 
 
 <hr/>

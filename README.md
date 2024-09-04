@@ -41,7 +41,35 @@ CONTENT
 
 # Mobility Management
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Power and Sense Management
+## Power management </br>
+  The power sourcw of our robot is the <a href="#">EV3 Programmable Brick</a>, it has a rechargable 10V Lithium Battery. EV3 P-Brick have 4 ports for motors and 4 ports for sensors. For the power consumption of motors and sensors: <a href="https://www.dexterindustries.com/ev3-current-consumption-measurement/">https://www.dexterindustries.com/ev3-current-consumption-measurement/</a>.
+  <table>
+<tr>
+<th width=400>
+
+
+
+
+
+
+
+
+
 
 # Obstacle Management
 

@@ -32,6 +32,7 @@ CONTENT
 * [**Obstacle Management**](#obstacle-management)
 * [**Robot Photos**](#robot-photos)
 * [**Team Photos**](#team-photos)
+* [**Videos**](#videos)
 * [**Engineering Factors**](#engineering-factors)
 
 

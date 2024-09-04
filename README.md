@@ -57,16 +57,20 @@ CONTENT
 
 # Power and Sense Management
 ## Power management </br>
-  The power sourcw of our robot is the <a href="#">EV3 Programmable Brick</a>, it has a rechargable 10V Lithium Battery. EV3 P-Brick have 4 ports for motors and 4 ports for sensors. For the power consumption of motors and sensors: <a href="https://www.dexterindustries.com/ev3-current-consumption-measurement/">https://www.dexterindustries.com/ev3-current-consumption-measurement/</a>.
+  The power source of our robot is the <a href="#">EV3 Programmable Brick</a>, it has a rechargable 10V Lithium Battery. EV3 P-Brick have 4 ports for motors and 4 ports for sensors. For the power consumption of motors and sensors: <a href="https://www.dexterindustries.com/ev3-current-consumption-measurement/">https://www.dexterindustries.com/ev3-current-consumption-measurement/</a>.
   <table>
+<tr>
+<th width=500>
+  
+  ![alt text](https://github.com/user-attachments/assets/7901a669-6c09-4c31-ba08-9381b82f198a)
+</th>
+</tr>
+</table>
 
+## Sense Management
+  We used the ultrasonic, color and gyro sensors of the LEGO EDUCATION MINDSTORMS EV3 Core Set for the sense management of the robot.
 
-
-
-
-
-
-
+  The ultrasonic sensors we used
 
 
 

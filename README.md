@@ -26,7 +26,17 @@ CONTENT
 <h2 align = center> Team Members: Yiğit Kaan GÜLDAĞ, Boran ÇANLI </h2>
 <h2 align = center> Email: engineerinside.fe2024@outlook.com </h2>
 
-# Contents
+# Contents 
+* [**Mobility Management**](#mobility-management)
+* [**Power and Sense Management**](#power-and-sense-management)
+* [**Obstacle Management**](#obstacle-management)
+* [**Robot Photos**](#robot-photos)
+* [**Team Photos**](#team-photos)
+* [**Engineering Factors**](#engineering-factors)
+
+
+
+
 
 # Mobility Management
 
@@ -57,18 +67,16 @@ CONTENT
 ![alt text](https://github.com/user-attachments/assets/e24fc02d-2242-48b6-9809-e6fae7b184b4)
 # <hr/>
 
-
+# Videos
 
 # Engineering Factors
 ### Building The Robot
- We built the robot with LEGO. For the motors, sensors and the brick we used the LEGO MINDSTORMS set. For the rest of the robot we combined different LEGO sets.
+ We built the robot with LEGO. For the motors, sensors and the EV3 programmable brick we used the LEGO MINDSTORMS set. For the rest of the robot we combined LEGO MINDSTORMS set with LEGO Spike Prime set.
 
- To process the colors of the obstacles we used the PixyCam. The camera has a 
-
-
+ To process the colors of the obstacles we used the PixyCam. The camera is a powerful tool with I2C communication protocol. It can distinguish the colors and sizes of the obstacles. It also has a program (PixyMon v2) for the config of the Cam.
 
 
-# Coding The Robot
+### Coding The Robot
   For the code we used <a href="">LEGO MINDSTORMS</a> application.
 
 

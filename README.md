@@ -26,6 +26,12 @@ CONTENT
 <h2 align = center> Team Members: Yiğit Kaan GÜLDAĞ, Boran ÇANLI </h2>
 <h2 align = center> Email: engineerinside.fe2024@outlook.com </h2>
 
+
+![alt text](https://github.com/user-attachments/assets/5060cdea-c406-42fe-b1e8-d36608d55174)
+
+
+
+
 # Contents 
 * [**Mobility Management**](#mobility-management)
 * [**Power and Sense Management**](#power-and-sense-management)

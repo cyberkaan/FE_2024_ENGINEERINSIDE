@@ -49,7 +49,6 @@ CONTENT
 
 
 
-![Uploading 9_1x.jpg…]()
 
 
 

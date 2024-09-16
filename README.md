@@ -28,6 +28,7 @@ CONTENT
 
 
 ![alt text](https://github.com/user-attachments/assets/5060cdea-c406-42fe-b1e8-d36608d55174)
+![alt text](https://github.com/user-attachments/assets/7cc4ed83-0469-44c3-b7fe-9b536c3d4e43)
 
 
 
@@ -78,11 +79,15 @@ CONTENT
 ## Sense Management
   We used the ultrasonic, color and gyro sensors of the LEGO EDUCATION MINDSTORMS EV3 Core Set for the sense management of the robot.
 
-  The ultrasonic sensors we used
-
-
+  The ultrasonic sensors we used are very important on our open round codes to find the middle of the walls and stay there.
+  Our gyro sensor is helping us calculate the error of the robots placement and fixing it.
+  The color sensors help us make the turns to finish the track and determine which way we are going to go.
 
 # Obstacle Management
+To go around the obstacles, know their x and y coordinates and know which color the obstacle is we used the PixyCam. The code uses the x and y coordinates of the obstacle according to where it is placed on the cam and the color learning ability helps us with the paths the robot should take.
+
+
+![alt text](https://github.com/user-attachments/assets/b257af2f-facd-4b6f-86b5-3247d9d6c7da)
 
 
 # Robot Photos

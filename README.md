@@ -121,6 +121,13 @@ To go around the obstacles, know their x and y coordinates and know which color 
  To process the colors of the obstacles we used the PixyCam. The camera is a powerful tool with I2C communication protocol. It can distinguish the colors and sizes of the obstacles. It also has a program (PixyMon v2) for the config of the Cam.
 
 
+
+<img width="629" alt="Ekran görüntüsü 2024-09-16 211717" src="https://github.com/user-attachments/assets/db58cb6f-72cc-42dd-8fcb-cdbeb753e668">
+
+<img width="633" alt="Ekran görüntüsü 2024-09-16 211859" src="https://github.com/user-attachments/assets/28826af2-b9b5-4f9f-a867-de64442156df">
+
+
+
 ### Coding The Robot
   For the code we used <a href="">LEGO MINDSTORMS</a> application.
 

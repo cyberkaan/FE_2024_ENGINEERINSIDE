@@ -73,7 +73,7 @@ We have a differential in the back of our robot to make turns smoother. If robot
   We thought that the mobilithe tahat 1 motor gives us may not be enough so we combined 2 with a differential.
 
 
-
+# <hr/>
 
 
 # Power and Sense Management
@@ -95,13 +95,15 @@ We have a differential in the back of our robot to make turns smoother. If robot
   Our gyro sensor is helping us calculate the error of the robots placement and fixing it.
   The color sensors help us make the turns to finish the track and determine which way we are going to go.
 
+
+# <hr/>
 # Obstacle Management
 To go around the obstacles, know their x and y coordinates and know which color the obstacle is we used the PixyCam. The code uses the x and y coordinates of the obstacle according to where it is placed on the cam and the color learning ability helps us with the paths the robot should take.
 
 
 ![alt text](https://github.com/user-attachments/assets/b257af2f-facd-4b6f-86b5-3247d9d6c7da)
 
-
+# <hr/>
 # Robot Photos
 ![alt text](https://github.com/user-attachments/assets/8d8d52ca-e757-40a6-97bf-7d89b446d83c)
 ![alt text](https://github.com/user-attachments/assets/2a5b7c1e-2ac0-4eb2-8f36-c8f4e1c5c156)
@@ -129,7 +131,7 @@ WRO Future Engineer 2024: Future Inside Open Challange: https://www.youtube.com/
 
 WRO Future Engineer 2024: Future Inside Obstacle Course: https://www.youtube.com/watch?v=hPcQB7C0rqA
 
-
+# <hr/>
 
 # Engineering Factors
 ### Building The Robot

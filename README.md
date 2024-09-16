@@ -126,6 +126,7 @@ To go around the obstacles, know their x and y coordinates and know which color 
 
 # Videos
 Open Round: https://www.youtube.com/watch?v=YE7ToXtUVc4
+
 Obstacle Round: https://www.youtube.com/watch?v=hPcQB7C0rqA
 
 

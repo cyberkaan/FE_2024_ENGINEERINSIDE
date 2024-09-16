@@ -48,22 +48,21 @@ CONTENT
 
 # Mobility Management
 
-
+### Steering and differential design
+We have a differential in the back of our robot to make turns smoother. If robot turns one wheel will move slower than second and it reduces radius of the turn so our robot can turn more accurately. Our robot is controlled by steering and differantial mechs.
 
 <img width="629" alt="Ekran görüntüsü 2024-09-16 211717" src="https://github.com/user-attachments/assets/db58cb6f-72cc-42dd-8fcb-cdbeb753e668">
-
 <img width="633" alt="Ekran görüntüsü 2024-09-16 211859" src="https://github.com/user-attachments/assets/28826af2-b9b5-4f9f-a867-de64442156df">
 
 
 
-## Camera Position
-
-Our camera is positioned as high and far back as possible to enhance the view and manage obstacles effectively. It is also tilted slightly downward to monitor nearby blocks and improve obstacle handling.
-
-
-
-
-
+### Weight distribution
+  Our robot weight is  a little behind the center so our robot has road grip and it doesn't slide.
+### Camera position
+  We placed the camera tilted and on top so it can see the obstacles and nothing else.
+### Motor selection
+  We have a choice between 2 types of LEGO motors: large motor and medium motor, the large motor is powerful but the speed is lower, the medium motor is not that powerful but have a great speed. Because the category needs speed not power, we chose that it would be better tochoose the medium motor type.
+  We thought that the mobilithe tahat 1 motor gives us may not be enough so we combined 2 with a differential.
 
 
 

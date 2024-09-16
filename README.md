@@ -125,9 +125,9 @@ To go around the obstacles, know their x and y coordinates and know which color 
 # <hr/>
 
 # Videos
-WRO Future Engineer 2024: Future Inside Obstacle Course: https://www.youtube.com/watch?v=YE7ToXtUVc4
+WRO Future Engineer 2024: Future Inside Open Challange: https://www.youtube.com/watch?v=YE7ToXtUVc4
 
-Obstacle Round: https://www.youtube.com/watch?v=hPcQB7C0rqA
+WRO Future Engineer 2024: Future Inside Obstacle Course: https://www.youtube.com/watch?v=hPcQB7C0rqA
 
 
 

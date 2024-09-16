@@ -125,7 +125,8 @@ To go around the obstacles, know their x and y coordinates and know which color 
 # <hr/>
 
 # Videos
-https://www.youtube.com/watch?v=YE7ToXtUVc4
+###Open Challenge: https://www.youtube.com/watch?v=YE7ToXtUVc4
+
 
 
 

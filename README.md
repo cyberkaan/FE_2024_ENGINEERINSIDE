@@ -56,7 +56,7 @@ CONTENT
 
 
 
-##Camera Position
+## Camera Position
 
 Our camera is positioned as high and far back as possible to enhance the view and manage obstacles effectively. It is also tilted slightly downward to monitor nearby blocks and improve obstacle handling.
 

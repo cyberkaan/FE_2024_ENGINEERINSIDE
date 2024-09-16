@@ -58,8 +58,16 @@ We have a differential in the back of our robot to make turns smoother. If robot
 
 ### Weight distribution
   Our robot weight is  a little behind the center so our robot has road grip and it doesn't slide.
+
+
+
+  
 ### Camera position
-  We placed the camera tilted and on top so it can see the obstacles and nothing else.
+  Our camera is positioned as high and far back as possible to enhance the view and manage obstacles effectively. It is also tilted slightly downward to monitor nearby blocks and improve obstacle handling.
+
+
+
+  
 ### Motor selection
   We have a choice between 2 types of LEGO motors: large motor and medium motor, the large motor is powerful but the speed is lower, the medium motor is not that powerful but have a great speed. Because the category needs speed not power, we chose that it would be better tochoose the medium motor type.
   We thought that the mobilithe tahat 1 motor gives us may not be enough so we combined 2 with a differential.

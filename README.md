@@ -114,18 +114,6 @@ To go around the obstacles, know their x and y coordinates and know which color 
 ![alt text](https://github.com/user-attachments/assets/7c6ef78b-b05e-44dc-9790-8439ca8926bf)
 # <hr/>
 
-# <hr/>
-# 3D Model
-![0c16bcc67fb93e3b44f921102f7a36db_display_large](https://github.com/user-attachments/assets/dc579fcb-9b1f-4756-875f-1cb5b07d6da2)
-
-
-# <hr/>
-
-
-
-
-
-
 
 # Team Photos
 ![alt text](https://github.com/user-attachments/assets/9c349e07-cc1d-45dc-97f6-21b32d5b81e0)
@@ -146,7 +134,14 @@ WRO Future Engineer 2024: Future Inside Obstacle Course: https://www.youtube.com
 
  To process the colors of the obstacles we used the PixyCam. The camera is a powerful tool with I2C communication protocol. It can distinguish the colors and sizes of the obstacles. It also has a program (PixyMon v2) for the config of the Cam.
 
+# <hr/>
+# 3D Model
+We used this 3D model for connect the PixyCam to our robot.
 
+![0c16bcc67fb93e3b44f921102f7a36db_display_large](https://github.com/user-attachments/assets/dc579fcb-9b1f-4756-875f-1cb5b07d6da2)
+
+
+# <hr/>
 
 
 

@@ -113,6 +113,11 @@ To go around the obstacles, know their x and y coordinates and know which color 
 ![alt text](https://github.com/user-attachments/assets/7c6ef78b-b05e-44dc-9790-8439ca8926bf)
 # <hr/>
 
+# <hr/>
+# Camera Position and Atachment
+
+
+# <hr/>
 
 
 

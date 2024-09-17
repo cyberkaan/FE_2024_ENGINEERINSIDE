@@ -116,6 +116,7 @@ To go around the obstacles, know their x and y coordinates and know which color 
 
 # <hr/>
 # 3D Model
+![0c16bcc67fb93e3b44f921102f7a36db_display_large](https://github.com/user-attachments/assets/dc579fcb-9b1f-4756-875f-1cb5b07d6da2)
 
 
 # <hr/>

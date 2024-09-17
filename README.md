@@ -114,7 +114,7 @@ To go around the obstacles, know their x and y coordinates and know which color 
 # <hr/>
 
 # <hr/>
-# Camera Position and Atachment
+# 3D Model
 
 
 # <hr/>

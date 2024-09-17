@@ -38,6 +38,7 @@ CONTENT
 * [**Power and Sense Management**](#power-and-sense-management)
 * [**Obstacle Management**](#obstacle-management)
 * [**Robot Photos**](#robot-photos)
+* [**3D Model**](#3D-model)
 * [**Team Photos**](#team-photos)
 * [**Videos**](#videos)
 * [**Engineering Factors**](#engineering-factors)
